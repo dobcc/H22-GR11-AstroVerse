@@ -1831,3 +1831,223 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.07-20.59.27:665][615]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/StartupMap_Auto7AF4ABAD24A3A586B46649198D8B61015.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Autosaves/Game/VirtualRealityBP/Maps/StartupMap_Auto7.umap'
 [2022.02.07-20.59.27:666][615]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/StartupMap' took 0.178
 [2022.02.07-20.59.27:666][615]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.178
+[2022.02.07-21.00.24:447][856]LogSlate: Window 'New Level' being destroyed
+[2022.02.07-21.00.28:152][856]LogSlate: Window 'Save Content' being destroyed
+[2022.02.07-21.00.28:193][856]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.02.07-21.00.28:339][856]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/StartupMap11976D3D426CC65842800894132DE0DC.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2022.02.07-21.00.28:345][856]LogFileHelpers: Saving map 'StartupMap' took 0.181
+[2022.02.07-21.00.28:350][856]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.07-21.00.28:357][856]LightingResults: New page: Lighting Build
+[2022.02.07-21.00.28:357][856]LoadErrors: New page: Loading map: Template_Default.umap
+[2022.02.07-21.00.28:382][856]MapCheck: New page: Map Check
+[2022.02.07-21.00.28:383][856]LightingResults: New page: Lighting Build
+[2022.02.07-21.00.28:412][856]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.02.07-21.00.28:422][856]LogAIModule: Creating AISystem for world Untitled_3
+[2022.02.07-21.00.28:425][856]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.07-21.00.28:454][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.02.07-21.00.28:459][856]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.07-21.00.28:459][856]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,119ms to complete.
+[2022.02.07-21.00.28:459][856]LogFileHelpers: Loading map 'Template_Default' took 0.109
+[2022.02.07-21.00.28:482][856]LogAIModule: Creating AISystem for world StartupMap
+[2022.02.07-21.00.30:606][ 93]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2022.02.07-21.00.35:387][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-21.00.57:259][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-21.00.57:331][295]LogAssetEditorManager: Opening Asset editor for Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere
+[2022.02.07-21.01.43:588][207]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.07-21.01.43:654][214]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2022.02.07-21.01.44:913][363]LogEditorViewport: Clicking Background
+[2022.02.07-21.01.46:364][537]LogEditorViewport: Clicking Background
+[2022.02.07-21.01.46:683][575]Cmd: TRANSACTION UNDO
+[2022.02.07-21.01.46:683][575]LogEditorTransaction: Undo Clicking Background
+[2022.02.07-21.01.47:076][622]Cmd: TRANSACTION UNDO
+[2022.02.07-21.01.47:076][622]LogEditorTransaction: Undo Clicking Background
+[2022.02.07-21.01.47:542][675]Cmd: TRANSACTION UNDO
+[2022.02.07-21.01.47:542][675]LogEditorTransaction: Undo Clicking on Components
+[2022.02.07-21.01.47:829][708]Cmd: TRANSACTION UNDO
+[2022.02.07-21.01.47:830][708]LogEditorTransaction: Undo Clicking on Actors
+[2022.02.07-21.01.48:073][737]Cmd: TRANSACTION UNDO
+[2022.02.07-21.01.48:073][737]LogEditorTransaction: Undo Clicking on Actors
+[2022.02.07-21.01.48:853][829]Cmd: TRANSACTION UNDO
+[2022.02.07-21.01.48:853][829]LogEditorTransaction: Undo Set Actor Visibility
+[2022.02.07-21.01.49:770][939]Cmd: TRANSACTION UNDO
+[2022.02.07-21.01.49:770][939]LogEditorTransaction: Undo Set Actor Visibility
+[2022.02.07-21.01.50:129][982]Cmd: TRANSACTION UNDO
+[2022.02.07-21.01.50:129][982]LogEditorTransaction: Undo Set Actor Visibility
+[2022.02.07-21.01.50:538][ 31]Cmd: TRANSACTION UNDO
+[2022.02.07-21.01.50:538][ 31]LogEditorTransaction: Undo Set Actor Visibility
+[2022.02.07-21.01.50:830][ 66]Cmd: TRANSACTION UNDO
+[2022.02.07-21.01.50:830][ 66]LogEditorTransaction: Undo Set Actor Visibility
+[2022.02.07-21.01.51:023][ 89]Cmd: TRANSACTION UNDO
+[2022.02.07-21.01.51:023][ 89]LogEditorTransaction: Undo Set Actor Visibility
+[2022.02.07-21.01.51:190][109]Cmd: TRANSACTION UNDO
+[2022.02.07-21.01.51:190][109]LogEditorTransaction: Undo Set Actor Visibility
+[2022.02.07-21.01.51:466][142]Cmd: TRANSACTION UNDO
+[2022.02.07-21.01.51:466][142]LogEditorTransaction: Undo Set Actor Visibility
+[2022.02.07-21.01.51:708][171]Cmd: TRANSACTION UNDO
+[2022.02.07-21.01.51:708][171]LogEditorTransaction: Undo Set Actor Visibility
+[2022.02.07-21.01.52:983][324]Cmd: TRANSACTION UNDO
+[2022.02.07-21.01.52:983][324]LogEditorTransaction: Undo Set Actor Visibility
+[2022.02.07-21.01.53:434][378]Cmd: TRANSACTION UNDO
+[2022.02.07-21.01.53:434][378]LogEditorTransaction: Undo Set Actor Visibility
+[2022.02.07-21.01.53:761][417]Cmd: TRANSACTION UNDO
+[2022.02.07-21.01.53:761][417]LogEditorTransaction: Undo Set Actor Visibility
+[2022.02.07-21.01.54:128][461]Cmd: TRANSACTION UNDO
+[2022.02.07-21.01.54:128][461]LogEditorTransaction: Undo Set Actor Visibility
+[2022.02.07-21.01.54:446][499]Cmd: TRANSACTION UNDO
+[2022.02.07-21.01.54:446][499]LogEditorTransaction: Undo Set Actor Visibility
+[2022.02.07-21.01.54:846][547]Cmd: TRANSACTION UNDO
+[2022.02.07-21.01.54:846][547]LogEditorTransaction: Undo Set Actor Visibility
+[2022.02.07-21.01.55:196][589]Cmd: TRANSACTION UNDO
+[2022.02.07-21.01.55:196][589]LogEditorTransaction: Undo Set Actor Visibility
+[2022.02.07-21.01.57:336][841]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-21.01.57:620][875]LogEditorViewport: Clicking Background
+[2022.02.07-21.03.30:024][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-21.03.32:791][926]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2022.02.07-21.04.47:679][574]LogBlueprintActionDatabase: Requesting refresh due to module change: WorldBrowser (loaded)
+[2022.02.07-21.04.47:680][574]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2022.02.07-21.04.47:685][574]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-21.04.49:822][805]LogEditorViewport: Clicking Background
+[2022.02.07-21.04.54:785][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-21.04.55:066][118]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-21.04.55:504][169]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-21.04.56:090][239]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-21.04.56:577][239]LogSlate: Window 'New Level' being destroyed
+[2022.02.07-21.04.56:586][239]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-21.04.57:466][239]LogSlate: Window 'Save Content' being destroyed
+[2022.02.07-21.04.57:471][239]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.07-21.04.57:474][239]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-21.04.57:478][239]LightingResults: New page: Lighting Build
+[2022.02.07-21.04.57:478][239]LoadErrors: New page: Loading map: Template_Default.umap
+[2022.02.07-21.04.57:479][239]MapCheck: New page: Map Check
+[2022.02.07-21.04.57:479][239]LightingResults: New page: Lighting Build
+[2022.02.07-21.04.57:532][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.02.07-21.04.57:566][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.02.07-21.04.57:595][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.02.07-21.04.57:606][239]LogAIModule: Creating AISystem for world Untitled_4
+[2022.02.07-21.04.57:609][239]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.07-21.04.57:640][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.02.07-21.04.57:646][239]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.07-21.04.57:647][239]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,131ms to complete.
+[2022.02.07-21.04.57:647][239]LogFileHelpers: Loading map 'Template_Default' took 0.176
+[2022.02.07-21.04.59:757][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-21.06.16:621][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-21.09.13:924][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-21.10.06:852][261]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.07-21.10.10:827][736]Cmd: TRANSACTION UNDO
+[2022.02.07-21.10.10:827][736]LogEditorTransaction: Undo Edit Zenith Color
+[2022.02.07-21.10.12:052][882]Cmd: TRANSACTION UNDO
+[2022.02.07-21.10.12:052][882]LogEditorTransaction: Undo Edit Zenith Color
+[2022.02.07-21.10.12:420][926]Cmd: TRANSACTION UNDO
+[2022.02.07-21.10.12:420][926]LogEditorTransaction: Undo Edit Zenith Color
+[2022.02.07-21.10.12:623][950]Cmd: TRANSACTION UNDO
+[2022.02.07-21.10.12:623][950]LogEditorTransaction: Undo Edit Zenith Color
+[2022.02.07-21.10.12:824][974]Cmd: TRANSACTION UNDO
+[2022.02.07-21.10.12:824][974]LogEditorTransaction: Undo Edit Zenith Color
+[2022.02.07-21.10.13:001][995]Cmd: TRANSACTION UNDO
+[2022.02.07-21.10.13:001][995]LogEditorTransaction: Undo Clicking on Actors
+[2022.02.07-21.10.23:538][256]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.07-21.10.30:854][132]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.07-21.10.32:239][298]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-21.10.32:249][298]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_4.Untitled_4:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_4.Untitled_4:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_4.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_4.Untitled_4:PersistentLevel.Untitled'
+[2022.02.07-21.10.32:249][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-21.10.32:249][298]PIE: New page: PIE session: Untitled_4 (2022-02-07 11:10:32)
+[2022.02.07-21.10.32:249][298]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_4
+[2022.02.07-21.10.32:251][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001956s)
+[2022.02.07-21.10.32:251][298]LogAIModule: Creating AISystem for world Untitled_4
+[2022.02.07-21.10.32:253][298]LogPlayLevel: PIE: World Init took: (0.000516s)
+[2022.02.07-21.10.32:253][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_4.Untitled_4 to /Temp/UEDPIE_0_Untitled_4.Untitled_4 (0.002673s)
+[2022.02.07-21.10.32:301][298]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.02.07-21.10.32:305][298]LogInit: XAudio2 using 'Haut-parleurs (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.02.07-21.10.32:319][298]LogInit: FAudioDevice initialized.
+[2022.02.07-21.10.32:349][298]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.02.07-21.10.32:349][298]LogLoad: Game class is 'GameModeBase'
+[2022.02.07-21.10.32:350][298]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_4.Untitled_4 up for play (max tick rate 0) at 2022.02.07-16.10.32
+[2022.02.07-21.10.32:350][298]LogWorld: Bringing up level for play took: 0.000396
+[2022.02.07-21.10.32:362][298]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_4 0,059
+[2022.02.07-21.10.32:362][298]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_4.Untitled_4:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_4.Untitled_4:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_4.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_4.Untitled_4:PersistentLevel.Untitled'
+[2022.02.07-21.10.48:993][132]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-21.11.39:318][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-21.11.39:477][992]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_4.Untitled_4:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_4.Untitled_4:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_4.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_4.Untitled_4:PersistentLevel.Untitled'
+[2022.02.07-21.11.39:477][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-21.11.39:507][992]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-21.11.39:507][992]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_4.Untitled_4:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_4.Untitled_4:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_4.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_4.Untitled_4:PersistentLevel.Untitled'
+[2022.02.07-21.11.39:544][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-21.11.39:548][992]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.02.07-21.11.39:575][995]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.02.07-21.13.17:294][388]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.07-21.13.17:310][388]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-21.14.14:202][516]LogAIModule: Creating AISystem for world StartupMap
+[2022.02.07-21.14.14:206][516]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
+[2022.02.07-21.14.14:236][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.02.07-21.14.18:667][516]LogSlate: Window 'Save Content' being destroyed
+[2022.02.07-21.14.18:672][516]Cmd: MAP LOAD FILE="../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.07-21.14.18:673][516]LightingResults: New page: Lighting Build
+[2022.02.07-21.14.18:674][516]LoadErrors: New page: Loading map: StartupMap.umap
+[2022.02.07-21.14.18:674][516]MapCheck: New page: Map Check
+[2022.02.07-21.14.18:674][516]LightingResults: New page: Lighting Build
+[2022.02.07-21.14.18:706][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.02.07-21.14.18:708][516]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.07-21.14.18:741][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.02.07-21.14.18:746][516]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.07-21.14.18:746][516]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,09ms to complete.
+[2022.02.07-21.14.18:746][516]LogFileHelpers: Loading map 'StartupMap' took 0.075
+[2022.02.07-21.14.27:158][509]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-21.14.27:549][555]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-21.14.27:883][594]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-21.14.28:761][699]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-21.14.29:787][699]LogSlate: Window 'New Level' being destroyed
+[2022.02.07-21.14.29:793][699]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.07-21.14.29:796][699]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-21.14.29:799][699]LightingResults: New page: Lighting Build
+[2022.02.07-21.14.29:800][699]LoadErrors: New page: Loading map: Template_Default.umap
+[2022.02.07-21.14.29:800][699]MapCheck: New page: Map Check
+[2022.02.07-21.14.29:800][699]LightingResults: New page: Lighting Build
+[2022.02.07-21.14.29:831][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.02.07-21.14.29:841][699]LogAIModule: Creating AISystem for world Untitled_5
+[2022.02.07-21.14.29:844][699]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.07-21.14.29:873][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.02.07-21.14.29:882][699]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.07-21.14.29:882][699]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,136ms to complete.
+[2022.02.07-21.14.29:882][699]LogFileHelpers: Loading map 'Template_Default' took 0.090
+[2022.02.07-21.14.32:853][ 53]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.07-21.14.35:920][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-21.14.38:723][749]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.07-21.14.41:498][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-21.15.09:296][406]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-21.15.20:470][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-21.16.00:755][576]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.07-21.16.08:485][489]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-21.16.11:565][858]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.07-21.16.14:278][182]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-21.16.23:437][280]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.07-21.16.29:214][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-21.16.49:512][392]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.07-21.16.57:156][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-21.17.03:946][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-21.17.06:951][465]Cmd: TRANSACTION UNDO
+[2022.02.07-21.17.06:951][465]LogEditorTransaction: Undo Scale Actors
+[2022.02.07-21.17.09:138][725]Cmd: TRANSACTION UNDO
+[2022.02.07-21.17.09:138][725]LogEditorTransaction: Undo Scale Actors
+[2022.02.07-21.18.26:885][  0]Cmd: TRANSACTION UNDO
+[2022.02.07-21.18.26:885][  0]LogEditorTransaction: Undo Scale Actors
+[2022.02.07-21.18.44:299][ 23]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.07-21.18.54:686][239]LogEditorViewport: Clicking on Actor (LMB): Sphere_Blueprint_C (Sphere_Blueprint)
+[2022.02.07-21.18.57:868][606]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.07-21.19.02:858][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-21.19.07:099][694]Cmd: TRANSACTION UNDO
+[2022.02.07-21.19.07:099][694]LogEditorTransaction: Undo Scale Actors
+[2022.02.07-21.19.10:913][145]Cmd: TRANSACTION UNDO
+[2022.02.07-21.19.10:913][145]LogEditorTransaction: Undo Scale Actors
+[2022.02.07-21.19.35:160][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-21.19.37:121][235]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.02.07-21.19.37:121][235]LogMaterial: Warning: /Engine/Transient.Material_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.07-21.19.37:121][235]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2022.02.07-21.19.45:447][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-21.20.14:183][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-21.20.15:625][813]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2022.02.07-21.20.46:056][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.02.07-21.20.52:811][413]LogSlate: Window 'Save Level As' being destroyed
+[2022.02.07-21.20.52:852][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.02.07-21.20.52:887][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.02.07-21.20.53:033][413]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/planete9D25F6EF4C0719CF47B4C399A2039AA5.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/VirtualRealityBP/Maps/planete.umap'
+[2022.02.07-21.20.53:038][413]LogFileHelpers: Saving map 'planete' took 0.222
