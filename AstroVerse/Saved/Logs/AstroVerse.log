@@ -852,3 +852,982 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.07-19.12.47:420][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2022.02.07-19.12.47:420][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000032 seconds (updated 0 objects)
 [2022.02.07-19.12.47:487][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.02.07-19.19.02:550][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.19.05:606][197]LogActorFactory: Actor Factory created Sphere
+[2022.02.07-19.19.05:930][235]LogActorFactory: Actor Factory created Sphere
+[2022.02.07-19.19.07:259][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2022.02.07-19.19.09:526][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.19.13:722][163]Cmd: TRANSACTION UNDO
+[2022.02.07-19.19.13:722][163]LogEditorTransaction: Undo Scale Actors
+[2022.02.07-19.19.13:734][163]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.07-19.19.22:415][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2022.02.07-19.19.22:504][214]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.02.07-19.19.24:020][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.19.26:358][673]LogSlate: Window 'Select Path' being destroyed
+[2022.02.07-19.19.26:561][697]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.07-19.19.52:497][801]LogSlate: Window 'Select Path' being destroyed
+[2022.02.07-19.19.52:529][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.02.07-19.19.52:552][801]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Sphere_Blueprint.Sphere_Blueprint
+[2022.02.07-19.19.52:742][801]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2022.02.07-19.21.59:630][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.22.01:372][144]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.02.07-19.22.30:180][517]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::PrintString' [Élément introuvable.]
+[2022.02.07-19.23.03:173][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.02.07-19.23.03:233][467]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/StartupMap_Auto1AEBCF26C4C70371A5F5E52BAD04DF9DD.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Autosaves/Game/VirtualRealityBP/Maps/StartupMap_Auto1.umap'
+[2022.02.07-19.23.03:234][467]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/StartupMap' took 0.090
+[2022.02.07-19.23.03:234][467]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.090
+[2022.02.07-19.23.03:237][467]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sphere_Blueprint] ([1] browsable assets)...
+[2022.02.07-19.23.03:245][467]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Sphere_Blueprint.Sphere_Blueprint]
+[2022.02.07-19.23.03:245][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sphere_Blueprint]
+[2022.02.07-19.23.03:259][467]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Sphere_Blueprint_Auto1E381CEF84F5DC65E96C2339D54F81E6A.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Autosaves/Game/Sphere_Blueprint_Auto1.uasset'
+[2022.02.07-19.23.03:259][467]LogFileHelpers: Auto-saving content packages took 0.023
+[2022.02.07-19.23.40:228][873]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2022.02.07-19.23.52:936][358]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall, compiling. 
+[2022.02.07-19.23.58:508][ 20]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2022.02.07-19.24.00:589][264]LogEditorViewport: Clicking Background
+[2022.02.07-19.24.02:618][507]LogEditorViewport: Clicking on Actor (LMB): Sphere_Blueprint_C (Mars)
+[2022.02.07-19.24.04:564][736]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-19.24.05:839][889]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-19.25.24:588][234]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2022.02.07-19.25.24:593][234]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2022.02.07-19.25.32:296][137]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-19.25.33:624][296]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-19.25.33:625][296]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Sphere_Blueprint.Sphere_Blueprint
+[2022.02.07-19.25.52:484][483]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2022.02.07-19.25.52:489][483]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2022.02.07-19.25.55:083][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.26.02:880][712]LogSlate: Window 'Plugins' being destroyed
+[2022.02.07-19.26.02:884][712]LogSlate: Window 'Plugins' being destroyed
+[2022.02.07-19.26.02:884][712]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2022.02.07-19.26.14:578][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.26.22:280][ 39]LogEditorViewport: Clicking on Actor (LMB): Sphere_Blueprint_C (Mars)
+[2022.02.07-19.26.22:363][ 48]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.02.07-19.26.24:288][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.26.36:427][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.26.57:595][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.27.03:115][871]LogEditorViewport: Clicking Background
+[2022.02.07-19.27.03:603][929]LogEditorViewport: Clicking on Actor (LMB): Sphere_Blueprint_C (Mars)
+[2022.02.07-19.27.07:797][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.27.27:539][781]Cmd: DELETE
+[2022.02.07-19.27.27:539][781]Cmd: ACTOR DELETE
+[2022.02.07-19.27.27:541][781]LogEditorActor: Deleted Actor: PlanarReflection
+[2022.02.07-19.27.27:601][781]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.02.07-19.27.27:601][781]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2022.02.07-19.27.28:398][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.27.33:522][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.27.37:876][  7]Cmd: DELETE
+[2022.02.07-19.27.37:876][  7]Cmd: ACTOR DELETE
+[2022.02.07-19.27.37:877][  7]LogEditorActor: Deleted Actor: DecalActor
+[2022.02.07-19.27.37:920][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.02.07-19.27.37:920][  7]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2022.02.07-19.27.39:004][137]LogEditorViewport: Clicking on Actor (LMB): Sphere_Blueprint_C (Mars)
+[2022.02.07-19.27.41:411][422]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-19.27.42:738][581]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-19.27.42:740][581]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Sphere_Blueprint.Sphere_Blueprint
+[2022.02.07-19.27.51:155][542]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-19.27.56:763][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.27.56:821][213]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-19.27.56:823][213]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-19.27.56:823][213]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.02.07-19.27.56:824][213]LogPlayLevel: [PlayLevel] Compiling Sphere_Blueprint before play...
+[2022.02.07-19.27.56:968][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.02.07-19.27.56:968][213]LogPlayLevel: PlayLevel: Blueprint regeneration took 144 ms (1 blueprints)
+[2022.02.07-19.27.56:968][213]PIE: New page: PIE session: StartupMap (2022-02-07 09:27:56)
+[2022.02.07-19.27.56:981][213]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2022.02.07-19.27.56:986][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004599s)
+[2022.02.07-19.27.56:986][213]LogAIModule: Creating AISystem for world StartupMap
+[2022.02.07-19.27.56:986][213]LogPlayLevel: PIE: World Init took: (0.000413s)
+[2022.02.07-19.27.56:986][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.005263s)
+[2022.02.07-19.27.57:009][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.02.07-19.27.57:013][213]LogInit: XAudio2 using 'Haut-parleurs (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.02.07-19.27.57:027][213]LogInit: FAudioDevice initialized.
+[2022.02.07-19.27.57:071][213]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.02.07-19.27.57:071][213]LogLoad: Game class is 'GameModeBase'
+[2022.02.07-19.27.57:073][213]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2022.02.07-14.27.57
+[2022.02.07-19.27.57:074][213]LogWorld: Bringing up level for play took: 0.001392
+[2022.02.07-19.27.57:089][213]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2022.02.07-19.27.57:092][213]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2022.02.07-19.27.57:092][213]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.02.07-19.27.57:093][213]LogBlueprintUserMessages: [Mars] Mars
+[2022.02.07-19.27.57:093][213]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap 0,439
+[2022.02.07-19.27.57:093][213]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-19.28.00:987][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.28.01:054][519]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-19.28.01:054][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-19.28.01:082][519]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-19.28.01:083][519]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-19.28.01:118][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-19.28.01:137][519]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.02.07-19.28.01:158][521]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.02.07-19.28.04:801][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.28.05:140][997]Cmd: DELETE
+[2022.02.07-19.28.05:140][997]Cmd: ACTOR DELETE
+[2022.02.07-19.28.05:142][997]LogEditorActor: Deleted Actor: PointLight
+[2022.02.07-19.28.05:173][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.02.07-19.28.05:173][997]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2022.02.07-19.28.10:665][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sphere_Blueprint" FILE="../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/Sphere_Blueprint.uasset" SILENT=true
+[2022.02.07-19.28.10:678][567]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Sphere_Blueprint6E40F40E4D86291A61354EB755945156.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/Sphere_Blueprint.uasset'
+[2022.02.07-19.28.13:035][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.28.13:676][921]LogEditorViewport: Clicking on Actor (LMB): Sphere_Blueprint_C (Mars)
+[2022.02.07-19.28.13:783][933]Cmd: DELETE
+[2022.02.07-19.28.13:783][933]Cmd: ACTOR DELETE
+[2022.02.07-19.28.13:785][933]LogEditorActor: Deleted Actor: Sphere_Blueprint_C
+[2022.02.07-19.28.13:815][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.02.07-19.28.13:815][933]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2022.02.07-19.28.14:908][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.28.18:460][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.28.41:949][287]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2022.02.07-19.28.41:953][287]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2022.02.07-19.28.50:097][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.28.51:381][411]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Sphere_Blueprint.Sphere_Blueprint
+[2022.02.07-19.29.49:844][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.29.58:449][813]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2022.02.07-19.29.58:454][813]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2022.02.07-19.30.00:071][  1]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2022.02.07-19.30.00:071][  1]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2022.02.07-19.30.01:501][169]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap
+[2022.02.07-19.30.11:501][343]LogSlate: Window 'StartupMap' being destroyed
+[2022.02.07-19.30.11:505][343]LogSlate: Window 'StartupMap' being destroyed
+[2022.02.07-19.30.30:440][601]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap
+[2022.02.07-19.33.09:830][534]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.02.07-19.33.09:995][534]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/StartupMap_Auto2DF7BE4554DD2AB721912DDB4BB79634D.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Autosaves/Game/VirtualRealityBP/Maps/StartupMap_Auto2.umap'
+[2022.02.07-19.33.09:996][534]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/StartupMap' took 0.217
+[2022.02.07-19.33.09:996][534]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.217
+[2022.02.07-19.33.22:160][571]LogSlate: Window 'StartupMap' being destroyed
+[2022.02.07-19.33.22:165][571]LogSlate: Window 'StartupMap' being destroyed
+[2022.02.07-19.33.32:059][739]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Sphere_Blueprint.Sphere_Blueprint
+[2022.02.07-19.33.36:140][170]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2022.02.07-19.33.36:145][170]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2022.02.07-19.33.49:341][143]LogEditorViewport: Clicking Background
+[2022.02.07-19.33.50:803][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.33.50:927][332]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Sphere_Blueprint.Sphere_Blueprint
+[2022.02.07-19.35.07:563][857]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2022.02.07-19.35.07:568][857]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2022.02.07-19.35.31:172][923]LogMaterial: Display: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2022.02.07-19.35.35:691][460]LogEditorViewport: Clicking on Actor (LMB): Sphere_Blueprint_C (Sphere_Blueprint)
+[2022.02.07-19.35.38:427][784]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-19.35.40:878][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-19.35.46:010][666]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/StarterContent/Textures/T_Lamp_M.T_Lamp_M
+[2022.02.07-19.35.46:067][666]LogBlueprintActionDatabase: Requesting refresh due to module change: TextureEditor (loaded)
+[2022.02.07-19.35.46:067][666]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.02.07-19.35.49:384][ 20]LogSlate: Window 'T_Lamp_M' being destroyed
+[2022.02.07-19.35.50:579][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.35.50:928][198]LogMaterial: Display: Missing cached shader map for material T_Lamp_M_Mat, compiling. 
+[2022.02.07-19.35.53:923][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.35.54:506][590]LogMaterial: Display: Missing cached shader map for material T_Fire_Tiled_Mat, compiling. 
+[2022.02.07-19.36.02:697][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.36.04:713][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.36.11:143][554]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-19.36.20:769][473]LogEditorViewport: Clicking Background
+[2022.02.07-19.36.23:154][758]LogEditorViewport: Clicking on Actor (LMB): Sphere_Blueprint_C (Sphere_Blueprint)
+[2022.02.07-19.36.27:122][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.36.32:940][924]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Sphere_Blueprint.Sphere_Blueprint
+[2022.02.07-19.36.35:590][204]LogRenderer: Reallocating scene render targets to support 1208x712 Format 26 NumSamples 1 (Frame:1).
+[2022.02.07-19.36.43:674][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.37.12:733][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.37.12:817][650]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-19.37.12:821][650]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-19.37.12:821][650]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.02.07-19.37.12:821][650]LogPlayLevel: [PlayLevel] Compiling Sphere_Blueprint before play...
+[2022.02.07-19.37.13:084][650]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2022.02.07-19.37.13:084][650]LogPlayLevel: PlayLevel: Blueprint regeneration took 263 ms (1 blueprints)
+[2022.02.07-19.37.13:084][650]PIE: New page: PIE session: StartupMap (2022-02-07 09:37:13)
+[2022.02.07-19.37.13:084][650]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2022.02.07-19.37.13:089][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004821s)
+[2022.02.07-19.37.13:090][650]LogAIModule: Creating AISystem for world StartupMap
+[2022.02.07-19.37.13:090][650]LogPlayLevel: PIE: World Init took: (0.000427s)
+[2022.02.07-19.37.13:090][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.005626s)
+[2022.02.07-19.37.13:137][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.02.07-19.37.13:141][650]LogInit: XAudio2 using 'Haut-parleurs (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.02.07-19.37.13:154][650]LogInit: FAudioDevice initialized.
+[2022.02.07-19.37.13:180][650]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.02.07-19.37.13:180][650]LogLoad: Game class is 'GameModeBase'
+[2022.02.07-19.37.13:181][650]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2022.02.07-14.37.13
+[2022.02.07-19.37.13:182][650]LogWorld: Bringing up level for play took: 0.001058
+[2022.02.07-19.37.13:193][650]LogBlueprintUserMessages: [Sphere_Blueprint_3] Mars
+[2022.02.07-19.37.13:194][650]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap 0,56
+[2022.02.07-19.37.13:194][650]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-19.37.18:500][285]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-19.37.18:500][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-19.37.18:531][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-19.37.18:531][285]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-19.37.18:580][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-19.37.18:583][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.02.07-19.37.18:604][287]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.02.07-19.37.21:639][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.37.29:046][536]Cmd: DELETE
+[2022.02.07-19.37.29:047][536]Cmd: ACTOR DELETE
+[2022.02.07-19.37.29:048][536]LogEditorActor: Deleted Actor: Sphere_Blueprint_C
+[2022.02.07-19.37.29:077][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.02.07-19.37.29:077][536]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2022.02.07-19.37.38:742][694]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-19.37.41:224][992]LogEditorViewport: Clicking Background
+[2022.02.07-19.37.44:474][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.38.06:352][998]LogBlueprintActionDatabase: Requesting refresh due to module change: NewLevelDialog (loaded)
+[2022.02.07-19.38.08:745][998]LogSlate: Window 'New Level' being destroyed
+[2022.02.07-19.38.15:496][998]LogSlate: Window 'Save Content' being destroyed
+[2022.02.07-19.38.15:535][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.02.07-19.38.15:674][998]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/StartupMap3552E3F941C2273D275C40B7B82EEB4C.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2022.02.07-19.38.15:681][998]LogFileHelpers: Saving map 'StartupMap' took 0.171
+[2022.02.07-19.38.15:685][998]LightingResults: New page: Lighting Build
+[2022.02.07-19.38.15:686][998]MapCheck: New page: Map Check
+[2022.02.07-19.38.15:686][998]LightingResults: New page: Lighting Build
+[2022.02.07-19.38.15:716][998]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.02.07-19.38.15:732][998]LogAIModule: Creating AISystem for world Untitled
+[2022.02.07-19.38.15:733][998]LoadErrors: New page: New Map
+[2022.02.07-19.38.15:758][998]LogAIModule: Creating AISystem for world StartupMap
+[2022.02.07-19.38.22:307][280]LogEditorViewport: Clicking Background
+[2022.02.07-19.38.31:289][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.38.42:386][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.39.00:077][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.39.00:143][799]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-19.39.00:149][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-19.39.00:149][799]PIE: New page: PIE session: Untitled_1 (2022-02-07 09:39:00)
+[2022.02.07-19.39.00:149][799]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2022.02.07-19.39.00:150][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000601s)
+[2022.02.07-19.39.00:150][799]LogAIModule: Creating AISystem for world Untitled
+[2022.02.07-19.39.00:150][799]LogPlayLevel: PIE: World Init took: (0.000393s)
+[2022.02.07-19.39.00:150][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.001166s)
+[2022.02.07-19.39.00:192][799]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2022.02.07-19.39.00:196][799]LogInit: XAudio2 using 'Haut-parleurs (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.02.07-19.39.00:209][799]LogInit: FAudioDevice initialized.
+[2022.02.07-19.39.00:248][799]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.02.07-19.39.00:249][799]LogLoad: Game class is 'GameModeBase'
+[2022.02.07-19.39.00:252][799]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2022.02.07-14.39.00
+[2022.02.07-19.39.00:253][799]LogWorld: Bringing up level for play took: 0.001360
+[2022.02.07-19.39.00:267][799]LogBlueprintUserMessages: [Sphere_Blueprint_2] Mars
+[2022.02.07-19.39.00:268][799]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0,353
+[2022.02.07-19.39.06:656][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-19.39.06:687][563]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-19.39.06:718][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-19.39.06:724][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.02.07-19.39.06:760][567]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.02.07-19.39.36:264][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.39.57:856][396]LogEditorViewport: Clicking Background
+[2022.02.07-19.39.59:090][544]LogEditorViewport: Clicking Background
+[2022.02.07-19.39.59:448][587]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2022.02.07-19.40.24:938][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.41.03:212][ 62]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2022.02.07-19.41.06:794][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.41.42:099][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.41.43:880][656]EditorErrors: New page: Actor attachment
+[2022.02.07-19.41.58:065][356]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-19.42.00:061][595]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-19.42.00:974][595]LogSlate: Window 'New Level' being destroyed
+[2022.02.07-19.42.00:981][595]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-19.42.02:336][595]LogSlate: Window 'Save Content' being destroyed
+[2022.02.07-19.42.02:341][595]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.07-19.42.02:344][595]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-19.42.02:350][595]LightingResults: New page: Lighting Build
+[2022.02.07-19.42.02:351][595]LoadErrors: New page: Loading map: Template_Default.umap
+[2022.02.07-19.42.02:354][595]MapCheck: New page: Map Check
+[2022.02.07-19.42.02:354][595]LightingResults: New page: Lighting Build
+[2022.02.07-19.42.02:381][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.02.07-19.42.02:411][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.02.07-19.42.02:439][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.02.07-19.42.02:485][595]LogAIModule: Creating AISystem for world Untitled_2
+[2022.02.07-19.42.02:491][595]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.07-19.42.02:520][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.02.07-19.42.02:525][595]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.07-19.42.02:526][595]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,136ms to complete.
+[2022.02.07-19.42.02:526][595]LogFileHelpers: Loading map 'Template_Default' took 0.184
+[2022.02.07-19.42.12:093][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.42.15:174][100]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2022.02.07-19.42.20:265][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.42.26:950][499]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2022.02.07-19.42.30:594][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.42.32:459][155]LogSlate: Window 'Select Path' being destroyed
+[2022.02.07-19.42.33:221][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.42.35:604][531]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2022.02.07-19.42.35:703][540]LogEditorViewport: Clicking on Component (LMB): SphereReflectionCaptureComponent (NewReflectionComponent)
+[2022.02.07-19.42.37:199][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.42.44:346][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.42.51:325][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.42.51:375][408]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-19.42.51:381][408]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-19.42.51:381][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-19.42.51:381][408]PIE: New page: PIE session: Untitled_2 (2022-02-07 09:42:51)
+[2022.02.07-19.42.51:381][408]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_2
+[2022.02.07-19.42.51:383][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001659s)
+[2022.02.07-19.42.51:383][408]LogAIModule: Creating AISystem for world Untitled_2
+[2022.02.07-19.42.51:383][408]LogPlayLevel: PIE: World Init took: (0.000444s)
+[2022.02.07-19.42.51:383][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_2.Untitled_2 to /Temp/UEDPIE_0_Untitled_2.Untitled_2 (0.002415s)
+[2022.02.07-19.42.51:412][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.02.07-19.42.51:416][408]LogInit: XAudio2 using 'Haut-parleurs (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.02.07-19.42.51:429][408]LogInit: FAudioDevice initialized.
+[2022.02.07-19.42.51:463][408]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.02.07-19.42.51:463][408]LogLoad: Game class is 'GameModeBase'
+[2022.02.07-19.42.51:467][408]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_2.Untitled_2 up for play (max tick rate 0) at 2022.02.07-14.42.51
+[2022.02.07-19.42.51:467][408]LogWorld: Bringing up level for play took: 0.001552
+[2022.02.07-19.42.51:483][408]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_2 0,881
+[2022.02.07-19.42.51:483][408]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-19.43.06:810][244]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-19.43.06:810][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-19.43.06:836][244]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-19.43.06:836][244]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-19.43.06:869][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-19.43.06:873][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.02.07-19.43.06:917][248]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.02.07-19.43.07:909][367]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2022.02.07-19.43.10:295][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.43.11:263][767]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-19.43.11:268][767]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-19.43.11:268][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-19.43.11:268][767]PIE: New page: PIE session: Untitled_2 (2022-02-07 09:43:11)
+[2022.02.07-19.43.11:268][767]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_2
+[2022.02.07-19.43.11:270][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001644s)
+[2022.02.07-19.43.11:270][767]LogAIModule: Creating AISystem for world Untitled_2
+[2022.02.07-19.43.11:270][767]LogPlayLevel: PIE: World Init took: (0.000436s)
+[2022.02.07-19.43.11:270][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_2.Untitled_2 to /Temp/UEDPIE_0_Untitled_2.Untitled_2 (0.002164s)
+[2022.02.07-19.43.11:299][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.02.07-19.43.11:302][767]LogInit: XAudio2 using 'Haut-parleurs (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.02.07-19.43.11:315][767]LogInit: FAudioDevice initialized.
+[2022.02.07-19.43.11:345][767]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.02.07-19.43.11:345][767]LogLoad: Game class is 'GameModeBase'
+[2022.02.07-19.43.11:346][767]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_2.Untitled_2 up for play (max tick rate 0) at 2022.02.07-14.43.11
+[2022.02.07-19.43.11:346][767]LogWorld: Bringing up level for play took: 0.000405
+[2022.02.07-19.43.11:358][767]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_2 0,758
+[2022.02.07-19.43.11:358][767]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-19.43.20:365][846]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-19.43.20:366][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-19.43.20:394][846]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-19.43.20:395][846]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-19.43.20:423][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-19.43.20:426][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.02.07-19.43.20:473][850]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.02.07-19.43.24:101][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.43.25:841][493]Cmd: EDIT CUT
+[2022.02.07-19.43.25:873][493]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2022.02.07-19.43.25:911][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.02.07-19.43.25:911][493]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2022.02.07-19.43.26:917][614]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-19.43.26:922][614]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-19.43.26:923][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-19.43.26:923][614]PIE: New page: PIE session: Untitled_2 (2022-02-07 09:43:26)
+[2022.02.07-19.43.26:923][614]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_2
+[2022.02.07-19.43.26:924][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001586s)
+[2022.02.07-19.43.26:925][614]LogAIModule: Creating AISystem for world Untitled_2
+[2022.02.07-19.43.26:925][614]LogPlayLevel: PIE: World Init took: (0.000498s)
+[2022.02.07-19.43.26:925][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_2.Untitled_2 to /Temp/UEDPIE_0_Untitled_2.Untitled_2 (0.002179s)
+[2022.02.07-19.43.26:952][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.02.07-19.43.26:955][614]LogInit: XAudio2 using 'Haut-parleurs (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.02.07-19.43.26:967][614]LogInit: FAudioDevice initialized.
+[2022.02.07-19.43.26:997][614]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.02.07-19.43.26:998][614]LogLoad: Game class is 'GameModeBase'
+[2022.02.07-19.43.26:999][614]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_2.Untitled_2 up for play (max tick rate 0) at 2022.02.07-14.43.26
+[2022.02.07-19.43.26:999][614]LogWorld: Bringing up level for play took: 0.000378
+[2022.02.07-19.43.27:010][614]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_2 0,411
+[2022.02.07-19.43.27:011][614]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-19.43.36:561][759]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-19.43.36:562][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-19.43.36:589][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-19.43.36:590][759]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-19.43.36:621][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-19.43.36:625][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.02.07-19.43.36:663][762]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.02.07-19.43.39:799][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.43.44:920][749]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.07-19.43.47:870][ 93]LogEditorViewport: Clicking on Actor (LMB): Sphere_Blueprint_C (Sphere_Blueprint)
+[2022.02.07-19.43.51:689][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.43.56:308][ 83]LogMaterial: Display: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2022.02.07-19.44.10:561][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.44.10:643][771]LogMaterial: Display: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2022.02.07-19.44.23:235][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-19.44.25:755][568]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-19.45.34:184][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.49.54:433][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.51.09:520][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.51.13:651][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.51.13:736][990]BlueprintLog: New page: Compile Sphere_Blueprint
+[2022.02.07-19.51.13:940][990]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.02.07-19.51.25:639][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.51.31:289][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.51.47:077][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.52.07:760][105]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-19.52.15:382][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.52.23:470][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.53.10:213][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.02.07-19.53.10:233][198]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Untitled_2_Auto377B6067D41A1F636D1B63887064E8511.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Autosaves/Temp/Untitled_2_Auto3.umap'
+[2022.02.07-19.53.10:235][198]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_2' took 0.056
+[2022.02.07-19.53.10:235][198]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.056
+[2022.02.07-19.53.10:236][198]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Fire_Tiled_Mat] ([1] browsable assets)...
+[2022.02.07-19.53.10:249][198]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Fire_Tiled_Mat.T_Fire_Tiled_Mat]
+[2022.02.07-19.53.10:249][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Fire_Tiled_Mat]
+[2022.02.07-19.53.10:260][198]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/T_Fire_Tiled_Mat_Auto37E84590F496B85E21834F7B55113B744.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Autosaves/Game/StarterContent/Textures/T_Fire_Tiled_Mat_Auto3.uasset'
+[2022.02.07-19.53.10:260][198]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sphere_Blueprint] ([1] browsable assets)...
+[2022.02.07-19.53.10:274][198]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Sphere_Blueprint.Sphere_Blueprint]
+[2022.02.07-19.53.10:274][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sphere_Blueprint]
+[2022.02.07-19.53.10:293][198]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Sphere_Blueprint_Auto36BB5DA904EE8F96D679E1186664EF37C.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Autosaves/Game/Sphere_Blueprint_Auto3.uasset'
+[2022.02.07-19.53.10:294][198]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Lamp_M_Mat] ([1] browsable assets)...
+[2022.02.07-19.53.10:307][198]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Lamp_M_Mat.T_Lamp_M_Mat]
+[2022.02.07-19.53.10:307][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Lamp_M_Mat]
+[2022.02.07-19.53.10:316][198]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/T_Lamp_M_Mat_Auto3E3A4F1764B096F97CCF5958A282CB8B3.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Autosaves/Game/StarterContent/Textures/T_Lamp_M_Mat_Auto3.uasset'
+[2022.02.07-19.53.10:317][198]LogFileHelpers: Auto-saving content packages took 0.081
+[2022.02.07-19.56.33:900][108]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-19.56.45:831][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.56.52:518][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.56.55:130][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.57.03:401][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.57.12:707][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.57.15:186][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sphere_Blueprint" FILE="../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/Sphere_Blueprint.uasset" SILENT=true
+[2022.02.07-19.57.15:204][728]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Sphere_BlueprintAFF01CAE4F3F3C90EA40D3A925DEF619.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/Sphere_Blueprint.uasset'
+[2022.02.07-19.57.17:224][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.57.44:159][ 68]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2022.02.07-19.58.34:506][402]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-19.58.34:512][402]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-19.58.34:512][402]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.02.07-19.58.34:512][402]LogPlayLevel: [PlayLevel] Compiling Sphere_Blueprint before play...
+[2022.02.07-19.58.34:726][402]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.02.07-19.58.34:726][402]LogPlayLevel: PlayLevel: Blueprint regeneration took 213 ms (1 blueprints)
+[2022.02.07-19.58.34:726][402]PIE: New page: PIE session: Untitled_2 (2022-02-07 09:58:34)
+[2022.02.07-19.58.34:726][402]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_2
+[2022.02.07-19.58.34:728][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001896s)
+[2022.02.07-19.58.34:729][402]LogAIModule: Creating AISystem for world Untitled_2
+[2022.02.07-19.58.34:729][402]LogPlayLevel: PIE: World Init took: (0.000471s)
+[2022.02.07-19.58.34:729][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_2.Untitled_2 to /Temp/UEDPIE_0_Untitled_2.Untitled_2 (0.002450s)
+[2022.02.07-19.58.34:756][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.02.07-19.58.34:760][402]LogInit: XAudio2 using 'Haut-parleurs (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.02.07-19.58.34:773][402]LogInit: FAudioDevice initialized.
+[2022.02.07-19.58.34:808][402]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.02.07-19.58.34:808][402]LogLoad: Game class is 'GameModeBase'
+[2022.02.07-19.58.34:809][402]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_2.Untitled_2 up for play (max tick rate 0) at 2022.02.07-14.58.34
+[2022.02.07-19.58.34:809][402]LogWorld: Bringing up level for play took: 0.000539
+[2022.02.07-19.58.34:821][402]LogBlueprintUserMessages: [Sphere_Blueprint_2] Mars
+[2022.02.07-19.58.34:866][402]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_2 0,32
+[2022.02.07-19.58.34:866][402]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-19.58.36:556][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.58.38:779][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sphere_Blueprint" FILE="../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/Sphere_Blueprint.uasset" SILENT=true
+[2022.02.07-19.58.38:797][862]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Sphere_Blueprint12925039440242A785A62983821546F9.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/Sphere_Blueprint.uasset'
+[2022.02.07-19.58.39:757][976]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-19.58.39:757][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-19.58.39:786][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-19.58.39:786][976]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-19.58.39:822][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-19.58.39:825][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.02.07-19.58.39:863][980]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.02.07-19.58.51:507][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sphere_Blueprint" FILE="../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/Sphere_Blueprint.uasset" SILENT=true
+[2022.02.07-19.58.51:519][129]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Sphere_Blueprint46D03F414027096F0A355E81AFCBC7CE.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/Sphere_Blueprint.uasset'
+[2022.02.07-19.58.59:998][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.59.00:080][958]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2022.02.07-19.59.00:085][958]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2022.02.07-19.59.02:088][192]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2022.02.07-19.59.04:196][442]Cmd: DELETE
+[2022.02.07-19.59.04:196][442]Cmd: ACTOR DELETE
+[2022.02.07-19.59.04:197][442]LogEditorActor: Deleted Actor: PlayerStart
+[2022.02.07-19.59.04:243][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.02.07-19.59.04:243][442]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2022.02.07-19.59.07:444][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.59.10:323][167]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-19.59.11:276][281]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-19.59.11:277][281]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Sphere_Blueprint.Sphere_Blueprint
+[2022.02.07-19.59.14:662][641]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2022.02.07-19.59.14:666][641]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2022.02.07-19.59.17:987][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.59.21:955][494]LogMaterial: Display: Missing cached shader map for material M_Ceramic_Tile_Checker, compiling. 
+[2022.02.07-19.59.23:931][717]LogMaterial: Display: Missing cached shader map for material M_CobbleStone_Pebble, compiling. 
+[2022.02.07-19.59.36:398][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-19.59.36:481][193]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-19.59.36:484][193]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-19.59.36:485][193]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-19.59.36:485][193]PIE: New page: PIE session: Untitled_2 (2022-02-07 09:59:36)
+[2022.02.07-19.59.36:485][193]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_2
+[2022.02.07-19.59.36:486][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001700s)
+[2022.02.07-19.59.36:487][193]LogAIModule: Creating AISystem for world Untitled_2
+[2022.02.07-19.59.36:487][193]LogPlayLevel: PIE: World Init took: (0.000439s)
+[2022.02.07-19.59.36:487][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_2.Untitled_2 to /Temp/UEDPIE_0_Untitled_2.Untitled_2 (0.002225s)
+[2022.02.07-19.59.36:530][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.02.07-19.59.36:534][193]LogInit: XAudio2 using 'Haut-parleurs (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.02.07-19.59.36:546][193]LogInit: FAudioDevice initialized.
+[2022.02.07-19.59.36:574][193]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.02.07-19.59.36:574][193]LogLoad: Game class is 'GameModeBase'
+[2022.02.07-19.59.36:575][193]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_2.Untitled_2 up for play (max tick rate 0) at 2022.02.07-14.59.36
+[2022.02.07-19.59.36:575][193]LogWorld: Bringing up level for play took: 0.000508
+[2022.02.07-19.59.36:587][193]LogBlueprintUserMessages: [Sphere_Blueprint_2] Mars
+[2022.02.07-19.59.36:587][193]LogBlueprintUserMessages: [Sphere_Blueprint2_5] Mars
+[2022.02.07-19.59.36:588][193]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_2 0,045
+[2022.02.07-19.59.36:588][193]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-20.00.01:151][137]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-20.00.01:151][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-20.00.01:178][137]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-20.00.01:179][137]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-20.00.01:211][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-20.00.01:214][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.02.07-20.00.01:257][141]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.02.07-20.00.02:132][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-20.00.02:206][255]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-20.00.02:209][255]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-20.00.02:209][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-20.00.02:209][255]PIE: New page: PIE session: Untitled_2 (2022-02-07 10:00:02)
+[2022.02.07-20.00.02:209][255]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_2
+[2022.02.07-20.00.02:211][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001724s)
+[2022.02.07-20.00.02:211][255]LogAIModule: Creating AISystem for world Untitled_2
+[2022.02.07-20.00.02:211][255]LogPlayLevel: PIE: World Init took: (0.000438s)
+[2022.02.07-20.00.02:211][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_2.Untitled_2 to /Temp/UEDPIE_0_Untitled_2.Untitled_2 (0.002244s)
+[2022.02.07-20.00.02:237][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.02.07-20.00.02:240][255]LogInit: XAudio2 using 'Haut-parleurs (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.02.07-20.00.02:252][255]LogInit: FAudioDevice initialized.
+[2022.02.07-20.00.02:278][255]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.02.07-20.00.02:278][255]LogLoad: Game class is 'GameModeBase'
+[2022.02.07-20.00.02:279][255]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_2.Untitled_2 up for play (max tick rate 0) at 2022.02.07-15.00.02
+[2022.02.07-20.00.02:279][255]LogWorld: Bringing up level for play took: 0.000473
+[2022.02.07-20.00.02:291][255]LogBlueprintUserMessages: [Sphere_Blueprint_2] Mars
+[2022.02.07-20.00.02:292][255]LogBlueprintUserMessages: [Sphere_Blueprint2_5] Mars
+[2022.02.07-20.00.02:292][255]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_2 -0,25
+[2022.02.07-20.00.02:292][255]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-20.00.10:126][194]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-20.00.10:127][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-20.00.10:157][194]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-20.00.10:158][194]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-20.00.10:187][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-20.00.10:191][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.02.07-20.00.10:233][197]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.02.07-20.00.18:397][175]LogEditorViewport: Clicking on Actor (LMB): Sphere_Blueprint_C (Sphere_Blueprint2)
+[2022.02.07-20.00.19:686][325]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.00.20:392][409]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.00.20:394][409]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Sphere_Blueprint.Sphere_Blueprint
+[2022.02.07-20.01.48:564][940]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::SpawnEmitterAtLocation' [Élément introuvable.]
+[2022.02.07-20.03.48:152][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.02.07-20.03.48:261][137]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Untitled_2_Auto4A59AC6C940E053681368C1996175892B.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Autosaves/Temp/Untitled_2_Auto4.umap'
+[2022.02.07-20.03.48:263][137]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_2' took 0.135
+[2022.02.07-20.03.48:263][137]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.135
+[2022.02.07-20.03.48:264][137]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sphere_Blueprint] ([1] browsable assets)...
+[2022.02.07-20.03.48:273][137]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Sphere_Blueprint.Sphere_Blueprint]
+[2022.02.07-20.03.48:273][137]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sphere_Blueprint]
+[2022.02.07-20.03.48:291][137]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Sphere_Blueprint_Auto4B43C6B8A4E9B6EFC9023E3947D2A4F27.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Autosaves/Game/Sphere_Blueprint_Auto4.uasset'
+[2022.02.07-20.03.48:291][137]LogFileHelpers: Auto-saving content packages took 0.027
+[2022.02.07-20.23.32:028][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-20.23.32:088][578]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-20.23.32:091][578]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-20.23.32:092][578]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.02.07-20.23.32:092][578]LogPlayLevel: [PlayLevel] Compiling Sphere_Blueprint before play...
+[2022.02.07-20.23.32:250][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.02.07-20.23.32:250][578]LogPlayLevel: PlayLevel: Blueprint regeneration took 157 ms (1 blueprints)
+[2022.02.07-20.23.32:250][578]PIE: New page: PIE session: Untitled_2 (2022-02-07 10:23:32)
+[2022.02.07-20.23.32:250][578]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_2
+[2022.02.07-20.23.32:252][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001774s)
+[2022.02.07-20.23.32:252][578]LogAIModule: Creating AISystem for world Untitled_2
+[2022.02.07-20.23.32:252][578]LogPlayLevel: PIE: World Init took: (0.000478s)
+[2022.02.07-20.23.32:252][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_2.Untitled_2 to /Temp/UEDPIE_0_Untitled_2.Untitled_2 (0.002337s)
+[2022.02.07-20.23.32:278][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.02.07-20.23.32:282][578]LogInit: XAudio2 using 'Haut-parleurs (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.02.07-20.23.32:296][578]LogInit: FAudioDevice initialized.
+[2022.02.07-20.23.32:327][578]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.02.07-20.23.32:327][578]LogLoad: Game class is 'GameModeBase'
+[2022.02.07-20.23.32:328][578]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_2.Untitled_2 up for play (max tick rate 0) at 2022.02.07-15.23.32
+[2022.02.07-20.23.32:328][578]LogWorld: Bringing up level for play took: 0.000519
+[2022.02.07-20.23.32:340][578]LogBlueprintUserMessages: [Sphere_Blueprint_2] Mars
+[2022.02.07-20.23.32:341][578]LogBlueprintUserMessages: [Sphere_Blueprint2_5] Mars
+[2022.02.07-20.23.32:341][578]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_2 -0,13
+[2022.02.07-20.23.32:341][578]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-20.23.32:772][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-20.23.35:294][842]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-20.23.35:295][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-20.23.35:323][842]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-20.23.35:324][842]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-20.23.35:351][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-20.23.35:354][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.02.07-20.23.35:394][845]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.02.07-20.23.37:619][ 34]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2022.02.07-20.23.37:624][ 34]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2022.02.07-20.23.38:614][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-20.23.38:697][156]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-20.23.38:700][156]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-20.23.38:700][156]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-20.23.38:700][156]PIE: New page: PIE session: Untitled_2 (2022-02-07 10:23:38)
+[2022.02.07-20.23.38:700][156]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_2
+[2022.02.07-20.23.38:702][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001640s)
+[2022.02.07-20.23.38:702][156]LogAIModule: Creating AISystem for world Untitled_2
+[2022.02.07-20.23.38:702][156]LogPlayLevel: PIE: World Init took: (0.000440s)
+[2022.02.07-20.23.38:702][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_2.Untitled_2 to /Temp/UEDPIE_0_Untitled_2.Untitled_2 (0.002161s)
+[2022.02.07-20.23.38:728][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.02.07-20.23.38:731][156]LogInit: XAudio2 using 'Haut-parleurs (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.02.07-20.23.38:744][156]LogInit: FAudioDevice initialized.
+[2022.02.07-20.23.38:772][156]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.02.07-20.23.38:772][156]LogLoad: Game class is 'GameModeBase'
+[2022.02.07-20.23.38:773][156]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_2.Untitled_2 up for play (max tick rate 0) at 2022.02.07-15.23.38
+[2022.02.07-20.23.38:773][156]LogWorld: Bringing up level for play took: 0.000470
+[2022.02.07-20.23.38:785][156]LogBlueprintUserMessages: [Sphere_Blueprint_2] Mars
+[2022.02.07-20.23.38:785][156]LogBlueprintUserMessages: [Sphere_Blueprint2_5] Mars
+[2022.02.07-20.23.38:786][156]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_2 0,315
+[2022.02.07-20.23.38:786][156]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-20.23.44:447][834]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-20.23.44:448][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-20.23.44:475][834]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-20.23.44:475][834]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-20.23.44:501][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-20.23.44:505][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.02.07-20.23.44:550][838]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.02.07-20.23.45:509][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-20.23.45:626][967]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-20.23.45:628][967]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-20.23.45:628][967]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-20.23.45:629][967]PIE: New page: PIE session: Untitled_2 (2022-02-07 10:23:45)
+[2022.02.07-20.23.45:629][967]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_2
+[2022.02.07-20.23.45:630][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001719s)
+[2022.02.07-20.23.45:631][967]LogAIModule: Creating AISystem for world Untitled_2
+[2022.02.07-20.23.45:631][967]LogPlayLevel: PIE: World Init took: (0.000432s)
+[2022.02.07-20.23.45:631][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_2.Untitled_2 to /Temp/UEDPIE_0_Untitled_2.Untitled_2 (0.002233s)
+[2022.02.07-20.23.45:653][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.02.07-20.23.45:656][967]LogInit: XAudio2 using 'Haut-parleurs (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.02.07-20.23.45:668][967]LogInit: FAudioDevice initialized.
+[2022.02.07-20.23.45:699][967]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.02.07-20.23.45:699][967]LogLoad: Game class is 'GameModeBase'
+[2022.02.07-20.23.45:700][967]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_2.Untitled_2 up for play (max tick rate 0) at 2022.02.07-15.23.45
+[2022.02.07-20.23.45:700][967]LogWorld: Bringing up level for play took: 0.000483
+[2022.02.07-20.23.45:711][967]LogBlueprintUserMessages: [Sphere_Blueprint_2] Mars
+[2022.02.07-20.23.45:711][967]LogBlueprintUserMessages: [Sphere_Blueprint2_5] Mars
+[2022.02.07-20.23.45:712][967]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_2 -0,759
+[2022.02.07-20.23.45:712][967]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-20.23.48:798][336]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-20.23.48:798][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-20.23.48:826][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-20.23.48:827][336]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_2.Untitled_2:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_2.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_2.Untitled_2:PersistentLevel.Untitled'
+[2022.02.07-20.23.48:853][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-20.23.48:857][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.02.07-20.23.48:901][341]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.02.07-20.23.51:045][598]LogEditorViewport: Clicking on Actor (LMB): Sphere_Blueprint_C (Sphere_Blueprint2)
+[2022.02.07-20.23.59:509][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-20.24.01:505][847]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Sphere_Blueprint.Sphere_Blueprint
+[2022.02.07-20.24.26:855][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.02.07-20.24.26:963][792]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Untitled_2_Auto5885345A843C944C9D803329412E84BBC.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Autosaves/Temp/Untitled_2_Auto5.umap'
+[2022.02.07-20.24.26:964][792]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_2' took 0.133
+[2022.02.07-20.24.26:964][792]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.133
+[2022.02.07-20.32.34:549][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-20.32.34:735][174]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2022.02.07-20.32.34:740][174]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2022.02.07-20.34.18:697][349]LogEditorViewport: Clicking on Actor (LMB): Sphere_Blueprint_C (Sphere_Blueprint)
+[2022.02.07-20.34.20:369][540]LogEditorViewport: Clicking on Actor (LMB): Sphere_Blueprint_C (Sphere_Blueprint)
+[2022.02.07-20.34.20:431][546]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.02.07-20.34.21:662][691]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.34.22:764][823]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.34.22:765][823]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Sphere_Blueprint.Sphere_Blueprint
+[2022.02.07-20.34.46:065][527]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::AddComponent' [Élément introuvable.]
+[2022.02.07-20.35.46:075][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.02.07-20.35.46:190][654]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Untitled_2_Auto6401A5D0D4523384F4445AE8BF09A12C0.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Autosaves/Temp/Untitled_2_Auto6.umap'
+[2022.02.07-20.35.46:192][654]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_2' took 0.141
+[2022.02.07-20.35.46:192][654]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.141
+[2022.02.07-20.35.46:193][654]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sphere_Blueprint] ([1] browsable assets)...
+[2022.02.07-20.35.46:202][654]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Sphere_Blueprint.Sphere_Blueprint]
+[2022.02.07-20.35.46:203][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sphere_Blueprint]
+[2022.02.07-20.35.46:220][654]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Sphere_Blueprint_Auto654652F4648DB6A53CDB0AF870E90974D.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Autosaves/Game/Sphere_Blueprint_Auto6.uasset'
+[2022.02.07-20.35.46:221][654]LogFileHelpers: Auto-saving content packages took 0.028
+[2022.02.07-20.36.16:819][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-20.42.46:599][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sphere_Blueprint" FILE="../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/Sphere_Blueprint.uasset" SILENT=true
+[2022.02.07-20.42.46:618][916]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Sphere_Blueprint57F936FB4CD9D14B2FB8608C34E75F43.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/Sphere_Blueprint.uasset'
+[2022.02.07-20.42.47:259][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-20.42.47:358][  3]BlueprintLog: New page: Compile Sphere_Blueprint
+[2022.02.07-20.42.47:494][  3]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.02.07-20.42.48:248][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sphere_Blueprint" FILE="../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/Sphere_Blueprint.uasset" SILENT=true
+[2022.02.07-20.42.48:265][ 88]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Sphere_Blueprint74A1029B44AEBBA81A7AC7B26E9CA96C.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/Sphere_Blueprint.uasset'
+[2022.02.07-20.42.49:210][198]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.42.56:787][ 96]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2022.02.07-20.42.56:792][ 96]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2022.02.07-20.42.59:807][440]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.43.03:080][832]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.43.10:196][832]LogSlate: Window 'Save Level As' being destroyed
+[2022.02.07-20.44.14:973][444]LogSlate: Window 'Open Level' being destroyed
+[2022.02.07-20.44.27:738][974]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.44.28:518][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.44.29:202][148]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.44.32:741][572]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.45.00:623][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.02.07-20.45.07:015][901]LogSlate: Window 'Save Content' being destroyed
+[2022.02.07-20.45.07:024][901]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.45.07:031][901]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/T_Fire_Tiled_Mat9E8D7E81425B4B15CCBE0991D95E312E.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/StarterContent/Textures/T_Fire_Tiled_Mat.uasset'
+[2022.02.07-20.45.07:042][901]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/T_Lamp_M_Mat1C8AF6514E31B224668BCB8F7F5517E4.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/StarterContent/Textures/T_Lamp_M_Mat.uasset'
+[2022.02.07-20.45.16:701][901]LogSlate: Window 'Message' being destroyed
+[2022.02.07-20.45.24:058][901]LogSlate: Window 'Save Level As' being destroyed
+[2022.02.07-20.45.24:064][901]LogSlate: Window 'Open Level' being destroyed
+[2022.02.07-20.45.29:608][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.02.07-20.45.31:483][546]LogSlate: Window 'Save Content' being destroyed
+[2022.02.07-20.45.31:489][546]Cmd: MAP LOAD FILE="../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.07-20.45.31:496][546]LightingResults: New page: Lighting Build
+[2022.02.07-20.45.31:497][546]LoadErrors: New page: Loading map: StartupMap.umap
+[2022.02.07-20.45.31:498][546]MapCheck: New page: Map Check
+[2022.02.07-20.45.31:498][546]LightingResults: New page: Lighting Build
+[2022.02.07-20.45.31:527][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.02.07-20.45.31:548][546]LogAIModule: Creating AISystem for world StartupMap
+[2022.02.07-20.45.31:567][546]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.07-20.45.31:593][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.02.07-20.45.31:602][546]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.07-20.45.31:603][546]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,092ms to complete.
+[2022.02.07-20.45.31:603][546]LogFileHelpers: Loading map 'StartupMap' took 0.116
+[2022.02.07-20.45.31:603][546]LogSlate: Window 'Open Level' being destroyed
+[2022.02.07-20.45.34:184][854]LogEditorViewport: Clicking on Actor (LMB): Sphere_Blueprint_C (Sphere_Blueprint)
+[2022.02.07-20.45.35:503][  8]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.45.36:356][110]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.45.36:357][110]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Sphere_Blueprint.Sphere_Blueprint
+[2022.02.07-20.45.46:481][274]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.45.47:756][426]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.45.53:261][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.02.07-20.45.53:262][ 82]Cmd: MAP LOAD FILE="../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.07-20.45.53:271][ 82]LightingResults: New page: Lighting Build
+[2022.02.07-20.45.53:271][ 82]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2022.02.07-20.45.53:274][ 82]MapCheck: New page: Map Check
+[2022.02.07-20.45.53:274][ 82]LightingResults: New page: Lighting Build
+[2022.02.07-20.45.53:301][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.02.07-20.45.53:702][ 82]LogAIModule: Creating AISystem for world MotionControllerMap
+[2022.02.07-20.45.53:709][ 82]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.07-20.45.53:740][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.02.07-20.45.53:749][ 82]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.07-20.45.53:749][ 82]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,1ms to complete.
+[2022.02.07-20.45.53:750][ 82]LogFileHelpers: Loading map 'MotionControllerMap' took 0.488
+[2022.02.07-20.45.53:750][ 82]LogSlate: Window 'Open Level' being destroyed
+[2022.02.07-20.46.02:193][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-20.46.19:040][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sphere_Blueprint" FILE="../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/Sphere_Blueprint.uasset" SILENT=true
+[2022.02.07-20.46.19:057][104]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Sphere_Blueprint0F94855C4BF71E23493AB7B4C0FCA704.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/Sphere_Blueprint.uasset'
+[2022.02.07-20.46.19:821][194]BlueprintLog: New page: Compile Sphere_Blueprint
+[2022.02.07-20.46.19:949][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.02.07-20.46.28:553][219]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2022.02.07-20.46.28:557][219]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2022.02.07-20.46.35:045][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.02.07-20.46.35:047][986]Cmd: MAP LOAD FILE="../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.07-20.46.35:054][986]LightingResults: New page: Lighting Build
+[2022.02.07-20.46.35:055][986]LoadErrors: New page: Loading map: StartupMap.umap
+[2022.02.07-20.46.35:056][986]MapCheck: New page: Map Check
+[2022.02.07-20.46.35:056][986]LightingResults: New page: Lighting Build
+[2022.02.07-20.46.35:080][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.02.07-20.46.35:101][986]LogAIModule: Creating AISystem for world StartupMap
+[2022.02.07-20.46.35:106][986]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.07-20.46.35:132][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.02.07-20.46.35:141][986]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.07-20.46.35:141][986]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,086ms to complete.
+[2022.02.07-20.46.35:141][986]LogFileHelpers: Loading map 'StartupMap' took 0.095
+[2022.02.07-20.46.35:141][986]LogSlate: Window 'Open Level' being destroyed
+[2022.02.07-20.46.37:716][294]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-20.46.37:719][294]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-20.46.37:719][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-20.46.37:719][294]PIE: New page: PIE session: StartupMap (2022-02-07 10:46:37)
+[2022.02.07-20.46.37:720][294]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2022.02.07-20.46.37:724][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004620s)
+[2022.02.07-20.46.37:725][294]LogAIModule: Creating AISystem for world StartupMap
+[2022.02.07-20.46.37:725][294]LogPlayLevel: PIE: World Init took: (0.000387s)
+[2022.02.07-20.46.37:725][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.005091s)
+[2022.02.07-20.46.37:745][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.02.07-20.46.37:749][294]LogInit: XAudio2 using 'Haut-parleurs (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.02.07-20.46.37:763][294]LogInit: FAudioDevice initialized.
+[2022.02.07-20.46.37:789][294]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.02.07-20.46.37:789][294]LogLoad: Game class is 'GameModeBase'
+[2022.02.07-20.46.37:791][294]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2022.02.07-15.46.37
+[2022.02.07-20.46.37:791][294]LogWorld: Bringing up level for play took: 0.001145
+[2022.02.07-20.46.37:802][294]LogBlueprintUserMessages: [Sphere_Blueprint_3] Mars
+[2022.02.07-20.46.37:803][294]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap -0,59
+[2022.02.07-20.46.37:803][294]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-20.46.43:143][934]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.46.48:460][572]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.46.50:210][782]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.46.54:503][297]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.46.56:431][528]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.46.57:481][654]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-20.46.57:482][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-20.46.57:511][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-20.46.57:511][654]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-20.46.57:541][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-20.46.57:544][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.02.07-20.46.57:589][659]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.02.07-20.46.58:247][738]LogEditorViewport: Clicking on Actor (LMB): Sphere_Blueprint_C (Sphere_Blueprint)
+[2022.02.07-20.46.58:609][778]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.02.07-20.46.59:447][876]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.47.01:758][153]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.47.01:759][153]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Sphere_Blueprint.Sphere_Blueprint
+[2022.02.07-20.47.42:838][962]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.02.07-20.47.48:151][598]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.47.49:143][717]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.48.45:743][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sphere_Blueprint" FILE="../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/Sphere_Blueprint.uasset" SILENT=true
+[2022.02.07-20.48.45:760][445]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Sphere_Blueprint3DF5DAFA44A70460DC335596BEB60833.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/Sphere_Blueprint.uasset'
+[2022.02.07-20.48.46:102][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-20.48.46:167][492]BlueprintLog: New page: Compile Sphere_Blueprint
+[2022.02.07-20.48.46:304][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.02.07-20.48.47:979][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-20.48.48:054][699]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-20.48.48:059][699]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-20.48.48:059][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-20.48.48:059][699]PIE: New page: PIE session: StartupMap (2022-02-07 10:48:48)
+[2022.02.07-20.48.48:059][699]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2022.02.07-20.48.48:064][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004798s)
+[2022.02.07-20.48.48:065][699]LogAIModule: Creating AISystem for world StartupMap
+[2022.02.07-20.48.48:065][699]LogPlayLevel: PIE: World Init took: (0.000423s)
+[2022.02.07-20.48.48:065][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.005314s)
+[2022.02.07-20.48.48:092][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.02.07-20.48.48:095][699]LogInit: XAudio2 using 'Haut-parleurs (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.02.07-20.48.48:108][699]LogInit: FAudioDevice initialized.
+[2022.02.07-20.48.48:136][699]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.02.07-20.48.48:136][699]LogLoad: Game class is 'GameModeBase'
+[2022.02.07-20.48.48:139][699]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2022.02.07-15.48.48
+[2022.02.07-20.48.48:140][699]LogWorld: Bringing up level for play took: 0.002653
+[2022.02.07-20.48.48:154][699]LogBlueprintUserMessages: [Sphere_Blueprint_3] Mars
+[2022.02.07-20.48.48:155][699]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap -0,222
+[2022.02.07-20.48.48:156][699]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-20.48.57:025][758]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-20.48.57:025][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-20.48.57:059][758]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-20.48.57:060][758]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-20.48.57:096][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-20.48.57:099][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.02.07-20.48.57:129][761]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.02.07-20.48.58:663][945]LogEditorViewport: Clicking on Actor (LMB): Sphere_Blueprint_C (Sphere_Blueprint)
+[2022.02.07-20.48.59:812][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.49.00:522][164]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.49.33:232][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-20.49.33:307][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sphere_Blueprint" FILE="../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/Sphere_Blueprint.uasset" SILENT=true
+[2022.02.07-20.49.33:324][ 43]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Sphere_BlueprintEB7974484759A43AC88FEEB8AA28A1B9.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Content/Sphere_Blueprint.uasset'
+[2022.02.07-20.49.33:905][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-20.49.34:005][122]BlueprintLog: New page: Compile Sphere_Blueprint
+[2022.02.07-20.49.34:178][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.02.07-20.49.35:664][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-20.49.35:706][299]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-20.49.35:710][299]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-20.49.35:710][299]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-20.49.35:710][299]PIE: New page: PIE session: StartupMap (2022-02-07 10:49:35)
+[2022.02.07-20.49.35:710][299]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2022.02.07-20.49.35:714][299]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004513s)
+[2022.02.07-20.49.35:715][299]LogAIModule: Creating AISystem for world StartupMap
+[2022.02.07-20.49.35:715][299]LogPlayLevel: PIE: World Init took: (0.000373s)
+[2022.02.07-20.49.35:715][299]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.004967s)
+[2022.02.07-20.49.35:741][299]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.02.07-20.49.35:744][299]LogInit: XAudio2 using 'Haut-parleurs (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.02.07-20.49.35:756][299]LogInit: FAudioDevice initialized.
+[2022.02.07-20.49.35:787][299]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.02.07-20.49.35:787][299]LogLoad: Game class is 'GameModeBase'
+[2022.02.07-20.49.35:794][299]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2022.02.07-15.49.35
+[2022.02.07-20.49.35:794][299]LogWorld: Bringing up level for play took: 0.004657
+[2022.02.07-20.49.35:807][299]LogBlueprintUserMessages: [Sphere_Blueprint_3] Mars
+[2022.02.07-20.49.35:807][299]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap -0,565
+[2022.02.07-20.49.35:808][299]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-20.49.37:286][473]LogNet: Browse: /Game/VirtualRealityBP/Maps/MotionControllerMap
+[2022.02.07-20.49.37:286][473]LogLoad: LoadMap: /Game/VirtualRealityBP/Maps/MotionControllerMap
+[2022.02.07-20.49.37:319][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.02.07-20.49.37:341][473]LogAIModule: Creating AISystem for world MotionControllerMap
+[2022.02.07-20.49.37:341][473]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.02.07-20.49.37:341][473]LogLoad: Game class is 'GameModeBase'
+[2022.02.07-20.49.37:344][473]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2022.02.07-15.49.37
+[2022.02.07-20.49.37:344][473]LogWorld: Bringing up level for play took: 0.002268
+[2022.02.07-20.49.37:344][473]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.02.07-20.49.37:378][473]LogLoad: Took 0.091810 seconds to LoadMap(/Game/VirtualRealityBP/Maps/MotionControllerMap)
+[2022.02.07-20.49.42:234][ 51]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-20.49.42:235][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-20.49.42:262][ 51]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-20.49.42:263][ 51]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-20.49.42:292][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-20.49.42:296][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.02.07-20.49.42:336][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.02.07-20.52.30:539][338]LogEditorViewport: Clicking Background
+[2022.02.07-20.52.39:621][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-20.52.39:705][429]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-20.52.39:712][429]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-20.52.39:712][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-20.52.39:712][429]PIE: New page: PIE session: StartupMap (2022-02-07 10:52:39)
+[2022.02.07-20.52.39:712][429]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2022.02.07-20.52.39:717][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005260s)
+[2022.02.07-20.52.39:718][429]LogAIModule: Creating AISystem for world StartupMap
+[2022.02.07-20.52.39:718][429]LogPlayLevel: PIE: World Init took: (0.000536s)
+[2022.02.07-20.52.39:718][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.005902s)
+[2022.02.07-20.52.39:738][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.02.07-20.52.39:742][429]LogInit: XAudio2 using 'Haut-parleurs (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.02.07-20.52.39:755][429]LogInit: FAudioDevice initialized.
+[2022.02.07-20.52.39:784][429]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.02.07-20.52.39:784][429]LogLoad: Game class is 'GameModeBase'
+[2022.02.07-20.52.39:785][429]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2022.02.07-15.52.39
+[2022.02.07-20.52.39:786][429]LogWorld: Bringing up level for play took: 0.001196
+[2022.02.07-20.52.39:798][429]LogBlueprintUserMessages: [Sphere_Blueprint_3] Mars
+[2022.02.07-20.52.39:798][429]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap -0,566
+[2022.02.07-20.52.39:798][429]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-20.52.44:082][942]LogNet: Browse: /Game/VirtualRealityBP/Maps/MotionControllerMap
+[2022.02.07-20.52.44:082][942]LogLoad: LoadMap: /Game/VirtualRealityBP/Maps/MotionControllerMap
+[2022.02.07-20.52.44:111][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.02.07-20.52.44:131][942]LogAIModule: Creating AISystem for world MotionControllerMap
+[2022.02.07-20.52.44:131][942]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.02.07-20.52.44:131][942]LogLoad: Game class is 'GameModeBase'
+[2022.02.07-20.52.44:133][942]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2022.02.07-15.52.44
+[2022.02.07-20.52.44:134][942]LogWorld: Bringing up level for play took: 0.002252
+[2022.02.07-20.52.44:134][942]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.02.07-20.52.44:136][942]LogLoad: Took 0.053768 seconds to LoadMap(/Game/VirtualRealityBP/Maps/MotionControllerMap)
+[2022.02.07-20.52.53:652][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.52.54:459][180]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-20.52.54:459][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-20.52.54:486][180]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-20.52.54:486][180]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-20.52.54:517][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-20.52.54:521][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.02.07-20.52.54:565][185]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.02.07-20.52.59:876][822]LogEditorViewport: Clicking on Actor (LMB): Sphere_Blueprint_C (Sphere_Blueprint)
+[2022.02.07-20.52.59:952][827]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.02.07-20.53.00:985][948]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.53.03:888][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-20.53.27:877][143]LogSlate: Window 'Sphere_Blueprint' being destroyed
+[2022.02.07-20.53.28:611][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.07-20.54.04:817][571]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2022.02.07-20.54.04:818][571]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2022.02.07-20.54.04:824][571]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.54.12:360][473]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2022.02.07-20.54.12:360][473]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2022.02.07-20.54.13:025][552]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.54.13:027][552]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap
+[2022.02.07-20.54.27:949][312]LogMaterial: Display: Missing cached shader map for material M_radial_ramp, compiling. 
+[2022.02.07-20.54.27:964][312]LogMaterial: Display: Missing cached shader map for material m_flare_01, compiling. 
+[2022.02.07-20.54.27:977][312]LogMaterial: Display: Missing cached shader map for material M_explosion_subUV, compiling. 
+[2022.02.07-20.54.28:015][312]LogMaterial: Display: Missing cached shader map for material M_Burst, compiling. 
+[2022.02.07-20.54.30:229][556]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-20.54.30:234][556]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-20.54.30:234][556]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.02.07-20.54.30:235][556]LogPlayLevel: [PlayLevel] Compiling StartupMap before play...
+[2022.02.07-20.54.30:402][556]LogShaderCompilers: Display: Shaders left to compile 60
+[2022.02.07-20.54.30:402][556]LogShaderCompilers: Display: Shaders left to compile 50
+[2022.02.07-20.54.30:438][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.02.07-20.54.30:438][556]LogPlayLevel: PlayLevel: Blueprint regeneration took 204 ms (1 blueprints)
+[2022.02.07-20.54.30:438][556]PIE: New page: PIE session: StartupMap (2022-02-07 10:54:30)
+[2022.02.07-20.54.30:438][556]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2022.02.07-20.54.30:445][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006588s)
+[2022.02.07-20.54.30:446][556]LogAIModule: Creating AISystem for world StartupMap
+[2022.02.07-20.54.30:446][556]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2022.02.07-20.54.30:446][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.007422s)
+[2022.02.07-20.54.30:479][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.02.07-20.54.30:484][556]LogInit: XAudio2 using 'Haut-parleurs (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.02.07-20.54.30:504][556]LogInit: FAudioDevice initialized.
+[2022.02.07-20.54.30:513][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-20.54.30:548][556]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.02.07-20.54.30:548][556]LogLoad: Game class is 'GameModeBase'
+[2022.02.07-20.54.30:550][556]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2022.02.07-15.54.30
+[2022.02.07-20.54.30:551][556]LogWorld: Bringing up level for play took: 0.002210
+[2022.02.07-20.54.30:563][556]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.02.07-20.54.30:564][556]LogBlueprintUserMessages: [Sphere_Blueprint_3] Mars
+[2022.02.07-20.54.30:566][556]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap 0,207
+[2022.02.07-20.54.30:566][556]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-20.54.30:596][557]LogRenderer: Reallocating scene render targets to support 1272x712 Format 26 NumSamples 1 (Frame:1).
+[2022.02.07-20.54.30:842][580]LogShaderCompilers: Display: Shaders left to compile 40
+[2022.02.07-20.54.30:911][588]LogShaderCompilers: Display: Shaders left to compile 30
+[2022.02.07-20.54.31:211][621]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.02.07-20.54.31:247][625]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.02.07-20.54.46:856][487]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.54.50:565][932]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.55.28:220][448]LogNet: Browse: /Game/VirtualRealityBP/Maps/MotionControllerMap
+[2022.02.07-20.55.28:220][448]LogLoad: LoadMap: /Game/VirtualRealityBP/Maps/MotionControllerMap
+[2022.02.07-20.55.28:249][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.02.07-20.55.28:269][448]LogAIModule: Creating AISystem for world MotionControllerMap
+[2022.02.07-20.55.28:269][448]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.02.07-20.55.28:269][448]LogLoad: Game class is 'GameModeBase'
+[2022.02.07-20.55.28:272][448]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2022.02.07-15.55.28
+[2022.02.07-20.55.28:272][448]LogWorld: Bringing up level for play took: 0.002177
+[2022.02.07-20.55.28:272][448]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.02.07-20.55.28:274][448]LogLoad: Took 0.052835 seconds to LoadMap(/Game/VirtualRealityBP/Maps/MotionControllerMap)
+[2022.02.07-20.55.33:880][121]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-20.55.33:880][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-20.55.33:884][121]LogSlate: Window 'AstroVerse Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.02.07-20.55.33:913][121]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-20.55.33:914][121]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2022.02.07-20.55.33:965][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.02.07-20.55.33:985][123]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.02.07-20.57.30:751][879]LogEditorViewport: Clicking on Actor (LMB): Sphere_Blueprint_C (Sphere_Blueprint)
+[2022.02.07-20.57.30:835][885]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.02.07-20.57.31:494][962]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.02.07-20.57.31:569][970]LogEditorViewport: Clicking on Actor (double click): Sphere_Blueprint_C (Sphere_Blueprint)
+[2022.02.07-20.57.31:790][994]LogEditorViewport: Clicking on Actor (LMB): Sphere_Blueprint_C (Sphere_Blueprint)
+[2022.02.07-20.57.31:881][  4]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.02.07-20.57.32:102][ 28]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.02.07-20.57.32:195][ 38]LogEditorViewport: Clicking on Actor (double click): Sphere_Blueprint_C (Sphere_Blueprint)
+[2022.02.07-20.57.32:610][ 85]LogEditorViewport: Clicking on Actor (context menu): Sphere_Blueprint_C (Sphere_Blueprint)
+[2022.02.07-20.57.32:626][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.02.07-20.59.27:515][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.02.07-20.59.27:665][615]LogSavePackage: Moving '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/StartupMap_Auto7AF4ABAD24A3A586B46649198D8B61015.tmp' to '../../../../Users/1971405/Documents/GitHub/H22-GR11-AstroVerse/AstroVerse/Saved/Autosaves/Game/VirtualRealityBP/Maps/StartupMap_Auto7.umap'
+[2022.02.07-20.59.27:666][615]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/StartupMap' took 0.178
+[2022.02.07-20.59.27:666][615]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.178
