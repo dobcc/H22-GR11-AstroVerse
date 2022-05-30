@@ -13,4 +13,4 @@ features non-implimentés (déduits non-nécessaires):
 - le joueur ne peut se téléporter: les tracks que les planètes suivent pour leur orbite semblent interférer avec la téléportation. On a donc pas implimenté de navmesh dans les autres scènes et la téléportation ne marche donc pas.
 _____________
 Bugs:
-- la première option du quiz prend une couleur différente lorsque le curseur passe par dessus.
+- Aucun bug majeur présentement détecté
